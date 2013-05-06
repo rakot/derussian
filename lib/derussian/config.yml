@@ -1,0 +1,70 @@
+replace:
+  "часа назад": "hour ago"
+  "час назад": "hour ago"
+  "полдня назад": "half day ago"
+  сегодня: today
+  вчера : yesterday
+  позавчера: "the day before yesterday"
+  "неделю назад": "week ago"
+
+  январь: January
+  января: January
+  февраль: February
+  февраля: February
+  март: March
+  марта: March
+  апрель: April
+  апреля: April
+  май: May
+  мая: May
+  июнь: June
+  июня: June
+  июль: July
+  июля: July
+  август: August
+  августа: August
+  сентябрь: September
+  сентября: September
+  октябрь: October
+  октября: October
+  ноябрь: November
+  ноября: November
+  декабрь: December
+  декабря: December
+
+  "в понедельник": "at Monday"
+  понедельника: Monday
+  понедельник: Monday
+  "во вторник": "at Tuesday"
+  вторника: Tuesday
+  вторник: Tuesday
+  "в среду": "at Wednesday"
+  среды: Wednesday
+  среда: Wednesday
+  "в четверг": "at Thursday"
+  четверга: Thursday
+  четверг: Thursday
+  "в пятницу": "at Friday"
+  пятницы: Friday
+  пятница: Friday
+  "в субботу": "at Saturday"
+  субботы: Saturday
+  суббота: Saturday
+  "в воскресенье": "at Sunday"
+  воскресенья: Sunday
+  востресенье: Sunday
+
+
+  янв: January
+  фев: February
+  мар: March
+  мрт: March
+  апр: April
+  май: May
+  июн: June
+  июл: July
+  авг: August
+  сен: September
+  окт: October
+  нбр: November
+  дек: December
