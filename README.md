@@ -18,8 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-Derussian::delocalize '13 сентября 2013'
-Derussian::delocalize '2 часа назад'
+    Derussian::delocalize '13 сентября 2013'
+    Derussian::delocalize '2 часа назад'
+
+It was created to use with Chronic gem, like that
+
+    Chronic.parse(Derussian::delocalize('2 часа назад'))
 
 ## Contributing
 
