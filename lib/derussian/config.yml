@@ -1,4 +1,5 @@
 replace:
+  "менее часа назад": "less then 1 hour ago"
   "часа назад": "hour ago"
   "час назад": "hour ago"
   "полдня назад": "half day ago"
@@ -69,4 +70,4 @@ replace:
   нбр: November
   дек: December
 
-  в: in
+  в: at
